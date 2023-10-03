@@ -6,6 +6,8 @@ using namespace std;
 int main()
 {
     cout << "aaaaa" << endl;
+    cout << "n" << endl;
+    cout << "n" << endl;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
